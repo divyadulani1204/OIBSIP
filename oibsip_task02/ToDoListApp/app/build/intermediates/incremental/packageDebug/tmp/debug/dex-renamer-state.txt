@@ -1,0 +1,7 @@
+#Mon Nov 28 23:23:24 IST 2022
+base.1=C\:\\Users\\DELL\\Downloads\\OIBSIP-main\\OIBSIP-main\\oibsip_task02\\ToDoListApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\DELL\\Downloads\\OIBSIP-main\\OIBSIP-main\\oibsip_task02\\ToDoListApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
